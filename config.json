@@ -1,0 +1,5 @@
+{
+    "lang" : "en",
+    "languages" : ["en", "es", "fr", "pt"],
+    "menu" : ["SERVICE", "PORTFOLIO", "ABOUT", "TEAM", "CONTACT"]
+}

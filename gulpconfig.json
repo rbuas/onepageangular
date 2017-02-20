@@ -1,0 +1,45 @@
+{
+    "styleoutput" : "styles/",
+    "styleinput" : ["styles/thews.less", "styles/skin.less"],
+    "stylefiles" : ["styles/*.less", "ext/boilerplate.css", "ext/normalize.css"],
+    "scriptsoutput" : "scripts/",
+    "scriptfiles" : [
+        "scripts/tracer.js",
+        "scripts/jsext.js",
+        "components/onepage/onepageapp.js",
+        "components/onepage/onepageservice.js",
+        "components/resource/resourceservice.js",
+        "components/onepage/onepagecontroller.js",
+        "components/ui/menubar.js",
+        "components/ui/stickyelem.js",
+        "components/ui/lazyimage.js"
+    ],
+    "scriptspack" : "pack.js",
+    "scriptbasefiles" : [
+        "scripts/lazycall.js"
+    ],
+    "scriptsbase" : "base.js",
+
+    "ftp_user" : "",
+    "ftp_password" : "",
+    "ftp_port" : "",
+    "ftp_host" : "",
+    "ftp_path" : "",
+
+    "publicfiles" : [
+        "./config.json",
+        "./index.html",
+        "./images/*",
+        "./resources/*",
+        "./scripts/pack.js",
+        "./scripts/pack.min.js",
+        "./scripts/base.js",
+        "./scripts/base.min.js",
+        "./styles/skin.css",
+        "./styles/skin.min.css",
+        "./styles/thews.css",
+        "./styles/thews.min.css",
+        "./version.json",
+        "./views/*"
+    ]
+}

@@ -1,0 +1,5 @@
+lazycall = (function () {
+    return {
+
+    };
+})();
